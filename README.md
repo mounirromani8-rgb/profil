@@ -68,12 +68,3 @@
 <img src="https://cdn.simpleicons.org/linux" width="40" height="40"/> 
 </p>
 
-<hr/>
-
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mounir-Romani&theme=radical" alt="Mounir ROMANI" /></p>
-
-<p><img src="https://github-readme-statsss-sigma.vercel.app/api?username=Mounir-Romani&show_icons=true&locale=en&theme=radical" alt="Mounir ROMANI" /></p>
-
-<p><img src="https://github-readme-statsss-sigma.vercel.app/api/top-langs?username=Mounir-Romani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mounir ROMANI" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Mounir-Romani&theme=radical" /></p>
