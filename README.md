@@ -1,11 +1,8 @@
 # Profil
-profil github
 
 
-<h1 align="center">Hi there! I'm Mounir ROMANI 👋</h1>
+<h1 align="center">Coco! I'm Mounir ROMANI 👋</h1>
 
-![GitHub User's stars](https://img.shields.io/github/stars/Mounir-Romani?logo=trustpilot&logoColor=black&style=social)
-![GitHub followers](https://img.shields.io/github/followers/Mounir-Romani?style=social)
 
 <h3 align="center">🚀 IA / Data Scientist | Passionné par le Deep Learning et l'innovation 🚀</h3>
 
