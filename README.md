@@ -31,7 +31,8 @@ profil github
 <b>Deep & Machine Learning:</b> 
 <img src="https://cdn.simpleicons.org/tensorflow" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/keras" width="40" height="40"/> 
-<img src="https://cdn.simpleicons.org/scikit-learn" width="40" height="40"/> 
+<img src="https://cdn.simpleicons.org/pytorch" width="40" height="40"/> 
+
 <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/> 
 
 
@@ -58,6 +59,7 @@ profil github
 
 <b>BI & Visualization:</b> 
 <img src="https://cdn.simpleicons.org/plotly" width="40" height="40"/> 
+<img src="https://cdn.simpleicons.org/matplotlib" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/pandas" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/numpy" width="40" height="40"/> <br>
 
