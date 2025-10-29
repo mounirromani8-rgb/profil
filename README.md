@@ -10,7 +10,7 @@ profil github
 
 <h3 align="center">🚀 IA / Data Scientist | Passionné par le Deep Learning et l'innovation 🚀</h3>
 
-<img align="right" alt="Coding" width="330" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="330" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnllcTRudmVnOGhzemN0OHlscHN3cW50a2ttNTJkMWR1bmZ3a2FoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif">
 
 - 🎓 Diplômé d’un double master en **Intelligence Artificielle et Data Science**  
 - 📌 Basé à **Nanterre, France** — mobilité **internationale**  
@@ -34,7 +34,6 @@ profil github
 <img src="https://cdn.simpleicons.org/keras" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/scikit-learn" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/> 
-<img src="https://cdn.simpleicons.org/transformers" width="40" height="40"/> <br>
 
 <b>Vision & Signal:</b> 
 <img src="https://opencv.org/images/opencv-logo-white.png" width="40" height="40"/> 
@@ -46,14 +45,14 @@ profil github
 <b>Langages:</b> 
 <img src="https://cdn.simpleicons.org/python" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/cplusplus" width="40" height="40"/> 
-<img src="https://cdn.simpleicons.org/c" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/r" width="40" height="40"/> <br>
 
 <b>Data & Cloud:</b> 
-<img src="https://cdn.simpleicons.org/mysql" width="40" height="40"/> 
-<img src="https://cdn.simpleicons.org/mongodb" width="40" height="40"/> 
-<img src="https://cdn.simpleicons.org/aws" width="40" height="40"/> 
-<img src="https://cdn.simpleicons.org/minio" width="40" height="40"/> <br>
+<img src="https://cdn.simpleicons.org/mysql" width="40" height="40"/>  
+<img src="https://cdn.simpleicons.org/postgresql" width="40" height="40"/>  
+<img src="https://cdn.simpleicons.org/aws" width="40" height="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/MinIO_logo.svg" width="40" height="40"/> <br>
+
 
 <b>DevOps & MLOps:</b> 
 <img src="https://cdn.simpleicons.org/git" width="40" height="40"/> 
@@ -76,13 +75,9 @@ profil github
 <img src="https://cdn.simpleicons.org/fastapi" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/qt" width="40" height="40"/> <br>
 
-<b>Simulation & Calcul scientifique:</b> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/COMSOL_Multiphysics_logo.png" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/ANSYS_logo.png" width="40" height="40"/> <br>
 
 <b>Systèmes:</b> 
 <img src="https://cdn.simpleicons.org/linux" width="40" height="40"/> 
-<img src="https://cdn.simpleicons.org/windows" width="40" height="40"/>
 </p>
 
 <hr/>
