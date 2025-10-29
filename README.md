@@ -1,12 +1,11 @@
-# profil
+# Profil
 profil github
-![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQHLBUQaE4B8Aw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726950363082?e=1742428800&v=beta&t=MEWLz4buEmQygMirrJG7u_3b3S0BEf2OJd7z2LHDDWo)
+
 
 <h1 align="center">Hi there! I'm Mounir ROMANI 👋</h1>
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Mounir-Romani?logo=trustpilot&logoColor=black&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Mounir-Romani?style=social)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMounir-Romani&count_bg=%23A01212&title_bg=%23000000&icon=codeigniter.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center">🚀 IA / Data Scientist | Passionné par le Deep Learning et l'innovation 🚀</h3>
 
@@ -59,7 +58,6 @@ profil github
 
 <b>BI & Visualization:</b> 
 <img src="https://cdn.simpleicons.org/plotly" width="40" height="40"/> 
-<img src="https://cdn.simpleicons.org/matplotlib" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/pandas" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/numpy" width="40" height="40"/> <br>
 
