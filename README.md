@@ -58,7 +58,6 @@ profil github
 
 
 <b>BI & Visualization:</b> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/plotly" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/pandas" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/numpy" width="40" height="40"/> <br>
