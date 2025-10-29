@@ -43,11 +43,10 @@ profil github
 
 
 <b>Data & Cloud:</b>  
-<img src="https://cdn.simpleicons.org/mysql" width="40" height="40"/>  
-<img src="https://cdn.simpleicons.org/mongodb" width="40" height="40"/>  
-<img src="https://cdn.simpleicons.org/postgresql" width="40" height="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/MinIO_logo.svg" width="40" height="40"/> <br>
+<img src="https://cdn.simpleicons.org/mysql" width="40" height="40"/> 
+<img src="https://cdn.simpleicons.org/postgresql" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40"/> 
+
 
 
 <b>DevOps & MLOps:</b> 
@@ -55,12 +54,10 @@ profil github
 <img src="https://cdn.simpleicons.org/docker" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/kubernetes" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/dvc" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/dagster-io/dagster/master/docs/assets/dagster-logo.svg" width="40" height="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/HTCondor_logo.png" width="40" height="40"/> <br>
+
 
 
 <b>BI & Visualization:</b> 
-<img src="https://cdn.simpleicons.org/powerbi" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/plotly" width="40" height="40"/> 
 <img src="https://cdn.simpleicons.org/pandas" width="40" height="40"/> 
