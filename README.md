@@ -14,7 +14,8 @@
 - 📧 Contact : **mounirromani8@gmail.com**  
 - 📞 Téléphone : **+33 772423141**  
 - 🌐 LinkedIn : [Mounir Akram ROMANI](https://www.linkedin.com/in/mounir-akram-romani-a81799250/)  
-- 🌐 Portfolio : en préparation  
+- 🌐 Portfolio :[https://mounirromani8-rgb.github.io/portfolio-romani](https://mounirromani8-rgb.github.io/portfolio-romani)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
